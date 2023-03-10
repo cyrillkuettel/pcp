@@ -3,7 +3,7 @@
 
 ## Werden in Java parameter by value or by reference übergeben?
 
-Immer by value, wenn es genau genommen wird.
+Immer by value, wenn man pedantisch sein will. 
 Es ist subtil:
 
 Primitive Datentypen sowieso by value.
